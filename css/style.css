@@ -1154,10 +1154,12 @@ figure.effect-julia:hover p {
 .grid3 {
 	border-bottom: 1px solid #DADADA;
 	border-left: 1px solid #DADADA;
+  border-right: 1px solid #DADADA;
 }
 
 .grid4 {
 	border-right: 1px solid #DADADA;
+  
 }
 
 .grid6 {
