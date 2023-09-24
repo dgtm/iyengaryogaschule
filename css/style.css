@@ -20,6 +20,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.klasses{
+  text-align: center;
+}
 img {
   max-width: 100%;
   height: auto;		
