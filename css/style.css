@@ -1638,11 +1638,17 @@ figure.effect-julia p {
 	float: right;
 	font-size: 17px;
 }
+.home-heading{
+  font-size: 15px;
 
+}
+.text-home{
+  font-size: 8px;
+}
 .home-heading span {
   /* background-color: #c1d6d6;
   color: darkcyan; */
-  font-size: 25px;
+  font-size: 20px;
   /* padding-left: 10px;
   padding-right: 10px;
   padding-bottom: 4px;
